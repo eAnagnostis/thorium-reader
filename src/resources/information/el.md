@@ -1,4 +1,4 @@
-About Thorium Reader
+Για τον Thorium Reader
 =======================
 
 Import and read EPUB ebooks on your Windows 10/10S computer. Great reading experience; local bookshelf with search capabilities and personal
