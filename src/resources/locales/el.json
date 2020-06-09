@@ -21,7 +21,7 @@
             "title": "Επεξεργασία",
             "undo": "Αναίρεση"
         },
-        "hide": "Απόκριψη {{- appName}}",
+        "hide": "Απόκρυψη {{- appName}}",
         "quit": "Κλείσιμο {{- appName}}",
         "session": {
             "exit": {
@@ -44,7 +44,7 @@
         "addBookToLib": "Import",
         "addTags": "Προσθέστε ετικέτα",
         "addTagsButton": "Προσθήκη",
-        "allBooks": "All books",
+        "allBooks": "Όλα τα βιβλία",
         "bookInfo": "About this book",
         "delete": "Διαγραφή ετικέτας",
         "deleteBook": "Διαγραφή",
@@ -207,12 +207,12 @@
         "progression": {
             "title": "Progression"
         },
-        "renewButton": "Renew",
-        "returnButton": "Return",
+        "renewButton": "Ανανέωση",
+        "returnButton": "Επιστροφή",
         "returnedLcp": "This book can't be read because the LCP license has been returned.",
         "revokedLcp": "This book can't be read because the LCP license has been revoked.",
-        "seeLess": "See less",
-        "seeMore": "See more",
+        "seeLess": "Λιγότερα",
+        "seeMore": "Περισσότερα",
         "userKeyCheckInvalid": "Passphrase is incorrect"
     },
     "reader": {
@@ -311,15 +311,15 @@
     "settings": {
         "keyboard": {
             "advancedMenu": "Menu",
-            "cancel": "Cancel",
-            "edit": "Edit",
-            "editUserJson": "Edit user file...",
-            "hide": "Hide",
-            "keyboardShortcuts": "Keyboard shortcuts",
+            "cancel": "Ακύρωση",
+            "edit": "Επεξεργασία",
+            "editUserJson": "Επεξεργασία αρχείου χρήστη...",
+            "hide": "Απόκρυφη",
+            "keyboardShortcuts": "Συντομεύσεις πληκτρολογίου",
             "loadUserJson": "Load from user file",
             "resetDefaults": "Reset (load defaults)",
-            "save": "Save",
-            "show": "Show"
+            "save": "Αποθήκευση",
+            "show": "Εμφάνιση"
         },
         "language": {
             "languageChoice": "Επιλογή γλώσσας"
