@@ -13,22 +13,22 @@
     },
     "app": {
         "edit": {
-            "copy": "Copy",
-            "cut": "Cut",
-            "paste": "Paste",
-            "redo": "Redo",
-            "selectAll": "Select all",
-            "title": "Edit",
-            "undo": "Undo"
+            "copy": "Αντιγραφή",
+            "cut": "Αποκοπή",
+            "paste": "Επικόλληση",
+            "redo": "Redo", <!-- Επανάληψη -->
+            "selectAll": "Επιλογή όλων",
+            "title": "Επεξεργασία",
+            "undo": "Αναίρεση"
         },
-        "hide": "Hide {{- appName}}",
-        "quit": "Quit {{- appName}}",
+        "hide": "Απόκριψη {{- appName}}",
+        "quit": "Κλείσιμο {{- appName}}",
         "session": {
             "exit": {
                 "askBox": {
                     "button": {
-                        "no": "No",
-                        "yes": "Yes"
+                        "no": "Όχι",
+                        "yes": "Ναι"
                     },
                     "message": "Do you want to save the session ?",
                     "title": "Save session"
@@ -221,12 +221,12 @@
             "moreInfo": "more information"
         },
         "marks": {
-            "annotations": "Annotations",
-            "bookmarks": "Bookmarks",
-            "delete": "Delete",
-            "edit": "Edit",
+            "annotations": "Σημείωση",
+            "bookmarks": "Σελιδοδείκτες",
+            "delete": "Διαγραφή",
+            "edit": "Επεξεργασία",
             "landmarks": "Landmarks",
-            "toc": "Table of Contents"
+            "toc": "Πίνακας περιεχομένων"
         },
         "media-overlays": {
             "activate": "Activate Readaloud",
