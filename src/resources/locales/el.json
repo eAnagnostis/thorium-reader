@@ -42,14 +42,14 @@
             "title": "Για τον {{- appName}}"
         },
         "addBookToLib": "Import",
-        "addTags": "Προσθήκη ετικέτας",
+        "addTags": "Προσθέστε ετικέτα",
         "addTagsButton": "Προσθήκη",
         "allBooks": "All books",
         "bookInfo": "About this book",
-        "delete": "Delete",
-        "deleteBook": "Delete",
-        "deleteTag": "Delete the tag",
-        "description": "Description",
+        "delete": "Διαγραφή ετικέτας",
+        "deleteBook": "Διαγραφή",
+        "deleteTag": "Διαγραφή ετικέτας",
+        "description": "Περιγραφή",
         "emptyTagList": "You have no tagged ebook.",
         "entry": {
             "continueReading": "Resume reading",
@@ -108,7 +108,7 @@
         "errorBox": {
             "error": "Error message:",
             "message": "An error has occurred in {{- filename}}",
-            "title": "Internal {{- appName}} Error"
+            "title": "Εσωτερικό Λάθος του {{- appName}}"
         }
     },
     "header": {
@@ -122,9 +122,9 @@
         "importTitle": "Import a publication",
         "listTitle": "List view",
         "refreshTitle": "reload",
-        "searchPlaceholder": "Search",
+        "searchPlaceholder": "Αναζήτηση",
         "searchTitle": "Start a search",
-        "settings": "Settings"
+        "settings": "Ρυθμίσεις"
     },
     "library": {
         "lcp": {
