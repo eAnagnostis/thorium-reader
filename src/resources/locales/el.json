@@ -112,10 +112,10 @@
         }
     },
     "header": {
-        "allBooks": "All books",
-        "books": "My Books",
-        "catalogs": "Catalogs",
-        "downloads": "Downloads",
+        "allBooks": "Όλα τα βιβλία",
+        "books": "Τα βιβλία μου",
+        "catalogs": "Κατάλαγοι",
+        "downloads": "Λήψεις",
         "gridTitle": "Grid view",
         "home": "Bookshelf menu",
         "homeTitle": "home",
@@ -257,42 +257,42 @@
         },
         "settings": {
             "column": {
-                "auto": "Automatic",
-                "one": "1 col",
-                "oneTitle": "one column",
-                "title": "Columns",
-                "two": "2 cols",
-                "twoTitle": "two columns"
+                "auto": "Αυτόματο",
+                "one": "1 στήλη",
+                "oneTitle": "μία στήλη",
+                "title": "Στήλες",
+                "two": "2 στήλες",
+                "twoTitle": "δύο στήλες"
             },
-            "display": "Display",
+            "display": "Εμφάνιση",
             "disposition": {
-                "title": "Layout"
+                "title": "Διάταξη"
             },
-            "font": "Font",
-            "fontSize": "Font size",
-            "justification": "Alignment",
-            "justify": "Justify",
-            "letterSpacing": "Letter spacing",
-            "lineSpacing": "Line spacing",
-            "margin": "Margin",
-            "paginated": "Paginated",
+            "font": "Γραμματοσειρά",
+            "fontSize": "Μέγεθος γραμματοσειράς",
+            "justification": "Στοίχιση",
+            "justify": "Πλήρης στοίχιση",
+            "letterSpacing": "Απόσταση χαρακτήρων",
+            "lineSpacing": "Διάστιχο",
+            "margin": "Περιθώριο",
+            "paginated": "Σελιδοποίηση",
             "save": {
-                "apply": "save",
-                "reset": "reset",
+                "apply": "αποθήκευση",
+                "reset": "επαναφορά",
                 "title": "Configuration"
             },
-            "scrolled": "Scrollable",
-            "spacing": "Spacing",
-            "text": "Text",
+            "scrolled": "Κύλιση",
+            "spacing": "Αποστάσεις",
+            "text": "Κείμενο",
             "theme": {
                 "name": {
-                    "Neutral": "Neutral",
-                    "Night": "Night",
-                    "Sepia": "Sepia"
+                    "Neutral": "Ουδέτερο",
+                    "Night": "Νυχτερινό",
+                    "Sepia": "Σέπια"
                 },
                 "title": "Theme"
             },
-            "wordSpacing": "Word spacing"
+            "wordSpacing": "Απόσταση λέξεων"
         },
         "svg": {
             "left": "Left",
