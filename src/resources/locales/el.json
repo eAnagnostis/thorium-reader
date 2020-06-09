@@ -1,7 +1,7 @@
 {
     "accessibility": {
         "bookMenu": "Menu",
-        "closeDialog": "Close",
+        "closeDialog": "Κλείσιμο",
         "homeMenu": "Reading view menu",
         "importFile": "Import a publication",
         "leftSlideButton": "Slide the list to the left",
@@ -16,7 +16,7 @@
             "copy": "Αντιγραφή",
             "cut": "Αποκοπή",
             "paste": "Επικόλληση",
-            "redo": "Redo", <!-- Επανάληψη -->
+            "redo": "Επανάληψη",
             "selectAll": "Επιλογή όλων",
             "title": "Επεξεργασία",
             "undo": "Αναίρεση"
@@ -38,12 +38,12 @@
     },
     "catalog": {
         "about": {
-            "button": "More information",
-            "title": "About {{- appName}}"
+            "button": "Περισσότερες πληροφορίες",
+            "title": "Για τον {{- appName}}"
         },
         "addBookToLib": "Import",
-        "addTags": "Add a tag",
-        "addTagsButton": "Add",
+        "addTags": "Προσθήκη ετικέτας",
+        "addTagsButton": "Προσθήκη",
         "allBooks": "All books",
         "bookInfo": "About this book",
         "delete": "Delete",
@@ -194,7 +194,7 @@
             "img": "cover image"
         },
         "duration": {
-            "title": "Duration"
+            "title": "Διάρκεια"
         },
         "expiredLcp": "This book can't be read because the LCP license has expired.",
         "lcpEnd": "End",
@@ -242,7 +242,7 @@
         },
         "navigation": {
             "backHomeTitle": "back to the bookshelf",
-            "bookmarkTitle": "bookmark",
+            "bookmarkTitle": "σελιδοδείκτης",
             "detachWindowTitle": "show library / bookshelf window",
             "fullscreenTitle": "open fullscreen mode",
             "goTo": "Go to",
@@ -322,7 +322,7 @@
             "show": "Show"
         },
         "language": {
-            "languageChoice": "Language choice"
+            "languageChoice": "Επιλογή γλώσσας"
         },
         "session": {
             "no": "Disable",
